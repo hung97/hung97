@@ -1,10 +1,4 @@
 
-/**
- * Quyết Nguyễn (Quyetdaik)
- * https://fb.com/nhquyet
- */
-
-
 body {
       margin: 0;
 	  padding: 0;
@@ -273,13 +267,7 @@ body {
       margin: 10px;
     }
 	
-	.audio {
-      position: absolute;
-	  top: 15px;
-      left: 15px;
-      height: 30px;
-      width: 300px;
-    }
+	
 
 /* CSS Button Đổi Kiểu */
 .classname {
@@ -312,7 +300,7 @@ body {
 	font-style:normal;
 	height:50px;
 	line-height:50px;
-	width:100px;
+	width:200px;
 	text-decoration:none;
 	text-align:center;
 	text-shadow:1px 1px 0px #ffffff;
